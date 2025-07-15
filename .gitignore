@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+
+# VSCode
+.vscode/
+
+# LangChain / Vector DB files
+chroma_db/
+db/
+*.db
+
+# Large or private data
+data/
+*.json
+*.csv
+
+# Secrets
+.env
+config.py
+
+# System files
+.DS_Store
+Thumbs.db
