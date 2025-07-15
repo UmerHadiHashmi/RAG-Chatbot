@@ -1,5 +1,3 @@
-# Placeholder content for README.md# RAG Chatbot using Gemini & Chroma
-
 This is a Retrieval-Augmented Generation (RAG) chatbot using FastAPI, Chroma for vector storage, and Gemini 2.0 Flash LLM.
 
 ## Tech Stack
